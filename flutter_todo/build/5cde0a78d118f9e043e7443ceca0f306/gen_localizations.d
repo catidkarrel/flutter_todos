@@ -1,0 +1,1 @@
+ /Volumes/MIT-HD0064/flutter_todos/lib/l10n/gen/app_localizations_en.dart /Volumes/MIT-HD0064/flutter_todos/lib/l10n/gen/app_localizations_es.dart /Volumes/MIT-HD0064/flutter_todos/lib/l10n/gen/app_localizations.dart:  /Volumes/MIT-HD0064/flutter_todos/l10n.yaml /Volumes/MIT-HD0064/flutter_todos/lib/l10n/arb/app_en.arb /Volumes/MIT-HD0064/flutter_todos/lib/l10n/arb/app_es.arb
