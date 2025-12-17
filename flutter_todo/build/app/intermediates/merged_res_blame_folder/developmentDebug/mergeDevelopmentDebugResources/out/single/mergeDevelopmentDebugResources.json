@@ -1,62 +1,62 @@
 [
     {
-        "merged": "com.example.verygoodcore.flutter_todos.app-developmentDebug-28:/mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "com.example.verygoodcore.flutter_todos.app-development-21:/mipmap-hdpi/ic_launcher_round.png"
+        "merged": "com.example.verygoodcore.flutter_todos.app-developmentDebug-44:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.verygoodcore.flutter_todos.app-development-37:/mipmap-xxxhdpi/ic_launcher.png"
     },
     {
-        "merged": "com.example.verygoodcore.flutter_todos.app-developmentDebug-28:/mipmap-mdpi_ic_launcher.png.flat",
-        "source": "com.example.verygoodcore.flutter_todos.app-development-21:/mipmap-mdpi/ic_launcher.png"
+        "merged": "com.example.verygoodcore.flutter_todos.app-developmentDebug-44:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.verygoodcore.flutter_todos.app-development-37:/mipmap-xhdpi/ic_launcher.png"
     },
     {
-        "merged": "com.example.verygoodcore.flutter_todos.app-developmentDebug-28:/drawable-v21_launch_background.xml.flat",
-        "source": "com.example.verygoodcore.flutter_todos.app-main-23:/drawable-v21/launch_background.xml"
+        "merged": "com.example.verygoodcore.flutter_todos.app-developmentDebug-44:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.verygoodcore.flutter_todos.app-development-37:/mipmap-xxhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "com.example.verygoodcore.flutter_todos.app-developmentDebug-28:/mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "com.example.verygoodcore.flutter_todos.app-development-21:/mipmap-xxxhdpi/ic_launcher.png"
+        "merged": "com.example.verygoodcore.flutter_todos.app-developmentDebug-44:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.verygoodcore.flutter_todos.app-development-37:/mipmap-hdpi/ic_launcher.png"
     },
     {
-        "merged": "com.example.verygoodcore.flutter_todos.app-developmentDebug-28:/drawable_ic_launch_image.xml.flat",
-        "source": "com.example.verygoodcore.flutter_todos.app-main-23:/drawable/ic_launch_image.xml"
+        "merged": "com.example.verygoodcore.flutter_todos.app-developmentDebug-44:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.example.verygoodcore.flutter_todos.app-development-37:/mipmap-hdpi/ic_launcher_round.png"
     },
     {
-        "merged": "com.example.verygoodcore.flutter_todos.app-developmentDebug-28:/mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "com.example.verygoodcore.flutter_todos.app-development-21:/mipmap-xxhdpi/ic_launcher_round.png"
+        "merged": "com.example.verygoodcore.flutter_todos.app-developmentDebug-44:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.verygoodcore.flutter_todos.app-development-37:/mipmap-xhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "com.example.verygoodcore.flutter_todos.app-developmentDebug-28:/mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "com.example.verygoodcore.flutter_todos.app-development-21:/mipmap-mdpi/ic_launcher_round.png"
+        "merged": "com.example.verygoodcore.flutter_todos.app-developmentDebug-44:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.verygoodcore.flutter_todos.app-development-37:/mipmap-mdpi/ic_launcher.png"
     },
     {
-        "merged": "com.example.verygoodcore.flutter_todos.app-developmentDebug-28:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "com.example.verygoodcore.flutter_todos.app-development-21:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "com.example.verygoodcore.flutter_todos.app-developmentDebug-44:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.verygoodcore.flutter_todos.app-development-37:/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "com.example.verygoodcore.flutter_todos.app-developmentDebug-28:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "com.example.verygoodcore.flutter_todos.app-development-21:/mipmap-xxxhdpi/ic_launcher_round.png"
+        "merged": "com.example.verygoodcore.flutter_todos.app-developmentDebug-44:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.verygoodcore.flutter_todos.app-development-37:/mipmap-xxhdpi/ic_launcher.png"
     },
     {
-        "merged": "com.example.verygoodcore.flutter_todos.app-developmentDebug-28:/mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "com.example.verygoodcore.flutter_todos.app-development-21:/mipmap-xhdpi/ic_launcher_round.png"
+        "merged": "com.example.verygoodcore.flutter_todos.app-developmentDebug-44:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.verygoodcore.flutter_todos.app-development-37:/mipmap-xxxhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "com.example.verygoodcore.flutter_todos.app-developmentDebug-28:/mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "com.example.verygoodcore.flutter_todos.app-development-21:/mipmap-xhdpi/ic_launcher.png"
+        "merged": "com.example.verygoodcore.flutter_todos.app-developmentDebug-44:/drawable_ic_launch_image.xml.flat",
+        "source": "com.example.verygoodcore.flutter_todos.app-main-39:/drawable/ic_launch_image.xml"
     },
     {
-        "merged": "com.example.verygoodcore.flutter_todos.app-developmentDebug-28:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "com.example.verygoodcore.flutter_todos.app-development-21:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "com.example.verygoodcore.flutter_todos.app-developmentDebug-44:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.verygoodcore.flutter_todos.app-development-37:/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "com.example.verygoodcore.flutter_todos.app-developmentDebug-28:/drawable_ic_launcher_foreground.xml.flat",
-        "source": "com.example.verygoodcore.flutter_todos.app-development-21:/drawable/ic_launcher_foreground.xml"
+        "merged": "com.example.verygoodcore.flutter_todos.app-developmentDebug-44:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.verygoodcore.flutter_todos.app-development-37:/drawable/ic_launcher_foreground.xml"
     },
     {
-        "merged": "com.example.verygoodcore.flutter_todos.app-developmentDebug-28:/mipmap-hdpi_ic_launcher.png.flat",
-        "source": "com.example.verygoodcore.flutter_todos.app-development-21:/mipmap-hdpi/ic_launcher.png"
+        "merged": "com.example.verygoodcore.flutter_todos.app-developmentDebug-44:/drawable-v21_launch_background.xml.flat",
+        "source": "com.example.verygoodcore.flutter_todos.app-main-39:/drawable-v21/launch_background.xml"
     },
     {
-        "merged": "com.example.verygoodcore.flutter_todos.app-developmentDebug-28:/mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "com.example.verygoodcore.flutter_todos.app-development-21:/mipmap-xxhdpi/ic_launcher.png"
+        "merged": "com.example.verygoodcore.flutter_todos.app-developmentDebug-44:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.example.verygoodcore.flutter_todos.app-development-37:/mipmap-mdpi/ic_launcher_round.png"
     }
 ]

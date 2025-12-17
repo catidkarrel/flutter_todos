@@ -1,8 +1,11 @@
-import 'dart:async';
 import 'dart:developer';
 
 import 'package:bloc/bloc.dart';
+import 'package:flutter/foundation.dart';
 import 'package:flutter/widgets.dart';
+import 'package:flutter_todos/app/view/app.dart';
+import 'package:todos_api/todos_api.dart';
+import 'package:todos_repository/todos_repository.dart';
 
 class AppBlocObserver extends BlocObserver {
   const AppBlocObserver();
@@ -20,14 +23,17 @@ class AppBlocObserver extends BlocObserver {
   }
 }
 
-Future<void> bootstrap(FutureOr<Widget> Function() builder) async {
-  FlutterError.onError = (details) {
-    log(details.exceptionAsString(), stackTrace: details.stack);
+void bootstrap({required TodosApi todosApi}) {
+  FlutterError.onError = (error) {
+    log(error.toString());
+  };
+
+  PlatformDispatcher.instance.onError = (error, stackTrace) {
+    log(error.toString());
+    return true;
   };
 
   Bloc.observer = const AppBlocObserver();
 
-  // Add cross-flavor configuration here
-
-  runApp(await builder());
+  runApp(App(createTodosRepository: () => TodosRepository(todosApi: todosApi)));
 }

@@ -1,8 +1,8 @@
 -- Merging decision tree log ---
 application
-INJECTED from /Volumes/MIT-HD0064/flutter_todo/flutter_todos/android/app/src/main/AndroidManifest.xml:2:5-33:19
-INJECTED from /Volumes/MIT-HD0064/flutter_todo/flutter_todos/android/app/src/main/AndroidManifest.xml:2:5-33:19
-INJECTED from /Volumes/MIT-HD0064/flutter_todo/flutter_todos/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Volumes/MIT-HD0064/flutter_todos/flutter_todo/android/app/src/main/AndroidManifest.xml:2:5-33:19
+INJECTED from /Volumes/MIT-HD0064/flutter_todos/flutter_todo/android/app/src/main/AndroidManifest.xml:2:5-33:19
+INJECTED from /Volumes/MIT-HD0064/flutter_todos/flutter_todo/android/app/src/debug/AndroidManifest.xml
 MERGED from [androidx.window:window:1.2.0] /Users/karrel/.gradle/caches/9.0.0/transforms/9e665cdd6ffdea804c380513eee566d5/transformed/jetified-window-1.2.0/AndroidManifest.xml:22:5-29:19
 MERGED from [androidx.window:window:1.2.0] /Users/karrel/.gradle/caches/9.0.0/transforms/9e665cdd6ffdea804c380513eee566d5/transformed/jetified-window-1.2.0/AndroidManifest.xml:22:5-29:19
 MERGED from [androidx.core:core:1.13.1] /Users/karrel/.gradle/caches/9.0.0/transforms/144cba204be65050373e662e82153bfe/transformed/core-1.13.1/AndroidManifest.xml:28:5-89
@@ -16,36 +16,60 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/karrel/.gradle/cache
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/karrel/.gradle/caches/9.0.0/transforms/3e3e3c0851cfc16222d8b501527f1aa6/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/karrel/.gradle/caches/9.0.0/transforms/3e3e3c0851cfc16222d8b501527f1aa6/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
 	android:extractNativeLibs
-		INJECTED from /Volumes/MIT-HD0064/flutter_todo/flutter_todos/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Volumes/MIT-HD0064/flutter_todos/flutter_todo/android/app/src/debug/AndroidManifest.xml
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.13.1] /Users/karrel/.gradle/caches/9.0.0/transforms/144cba204be65050373e662e82153bfe/transformed/core-1.13.1/AndroidManifest.xml:28:18-86
 	android:label
-		INJECTED from /Volumes/MIT-HD0064/flutter_todo/flutter_todos/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/MIT-HD0064/flutter_todos/flutter_todo/android/app/src/main/AndroidManifest.xml
 	android:name
-		INJECTED from /Volumes/MIT-HD0064/flutter_todo/flutter_todos/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/MIT-HD0064/flutter_todos/flutter_todo/android/app/src/main/AndroidManifest.xml
 manifest
-ADDED from /Volumes/MIT-HD0064/flutter_todo/flutter_todos/android/app/src/main/AndroidManifest.xml:1:1-45:12
-MERGED from /Volumes/MIT-HD0064/flutter_todo/flutter_todos/android/app/src/main/AndroidManifest.xml:1:1-45:12
-INJECTED from /Volumes/MIT-HD0064/flutter_todo/flutter_todos/android/app/src/debug/AndroidManifest.xml:1:1-7:12
-INJECTED from /Volumes/MIT-HD0064/flutter_todo/flutter_todos/android/app/src/debug/AndroidManifest.xml:1:1-7:12
-INJECTED from /Volumes/MIT-HD0064/flutter_todo/flutter_todos/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+ADDED from /Volumes/MIT-HD0064/flutter_todos/flutter_todo/android/app/src/main/AndroidManifest.xml:1:1-45:12
+MERGED from /Volumes/MIT-HD0064/flutter_todos/flutter_todo/android/app/src/main/AndroidManifest.xml:1:1-45:12
+INJECTED from /Volumes/MIT-HD0064/flutter_todos/flutter_todo/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Volumes/MIT-HD0064/flutter_todos/flutter_todo/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Volumes/MIT-HD0064/flutter_todos/flutter_todo/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+MERGED from [:shared_preferences_android] /Volumes/MIT-HD0064/flutter_todos/flutter_todo/build/shared_preferences_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.preference:preference:1.2.1] /Users/karrel/.gradle/caches/9.0.0/transforms/b99b52a6e591acd71717230b9939c5a0/transformed/preference-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/karrel/.gradle/caches/9.0.0/transforms/f47e07621375b3fa9db24f8558a6bc04/transformed/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.7.1] /Users/karrel/.gradle/caches/9.0.0/transforms/4f715cdb20d8546a20494a5505974f2e/transformed/jetified-fragment-ktx-1.7.1/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.fragment:fragment:1.7.1] /Users/karrel/.gradle/caches/9.0.0/transforms/20ac6f6128a011d113cabbc000c5b304/transformed/fragment-1.7.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/karrel/.gradle/caches/9.0.0/transforms/7e143d0bbf4e7f2c5236952438418ca5/transformed/recyclerview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/karrel/.gradle/caches/9.0.0/transforms/183fcba0288d832e0134ed28f78ba8de/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /Users/karrel/.gradle/caches/9.0.0/transforms/286bccee6459e6a6a1d2b2696f7b15ec/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.window:window:1.2.0] /Users/karrel/.gradle/caches/9.0.0/transforms/9e665cdd6ffdea804c380513eee566d5/transformed/jetified-window-1.2.0/AndroidManifest.xml:17:1-31:12
 MERGED from [androidx.window:window-java:1.2.0] /Users/karrel/.gradle/caches/9.0.0/transforms/2fc9e6ebaf3880072d188b3f2eccdcd8/transformed/jetified-window-java-1.2.0/AndroidManifest.xml:17:1-21:12
+MERGED from [androidx.activity:activity-ktx:1.8.1] /Users/karrel/.gradle/caches/9.0.0/transforms/261a28569da641203827ac0cd75d19b7/transformed/jetified-activity-ktx-1.8.1/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.activity:activity:1.8.1] /Users/karrel/.gradle/caches/9.0.0/transforms/df2f1c6c72757d0d1385fa506bdc01c2/transformed/jetified-activity-1.8.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/karrel/.gradle/caches/9.0.0/transforms/cf9d7010b6bed05684ab9927beb39096/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.loader:loader:1.0.0] /Users/karrel/.gradle/caches/9.0.0/transforms/69b58f59eb0e264e10904482a3ad479e/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/karrel/.gradle/caches/9.0.0/transforms/7236f2bc7df6865f82016bedad580d03/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] /Users/karrel/.gradle/caches/9.0.0/transforms/271ababa3cace6e5fe1dc304e108904e/transformed/jetified-lifecycle-livedata-core-ktx-2.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] /Users/karrel/.gradle/caches/9.0.0/transforms/a522dbf48b08d4b605304c4e2dd593c1/transformed/jetified-lifecycle-runtime-ktx-2.7.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] /Users/karrel/.gradle/caches/9.0.0/transforms/442dd10a926c7a6269ccb3486a857b7f/transformed/lifecycle-livedata-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] /Users/karrel/.gradle/caches/9.0.0/transforms/271ababa3cace6e5fe1dc304e108904e/transformed/jetified-lifecycle-livedata-core-ktx-2.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] /Users/karrel/.gradle/caches/9.0.0/transforms/0f8696e7fa07240284ec3ad8d2fac083/transformed/jetified-lifecycle-viewmodel-ktx-2.7.0/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /Users/karrel/.gradle/caches/9.0.0/transforms/352b777a4fc1a783553eaacc76178c2d/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /Users/karrel/.gradle/caches/9.0.0/transforms/4bc3a9e372c257d77e4b43831baa70d7/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /Users/karrel/.gradle/caches/9.0.0/transforms/2e9b86a0d36b578ebc06d7fe96e0225d/transformed/jetified-lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.core:core-ktx:1.13.1] /Users/karrel/.gradle/caches/9.0.0/transforms/27907ade144af097322bd0642580d735/transformed/jetified-core-ktx-1.13.1/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.customview:customview:1.0.0] /Users/karrel/.gradle/caches/9.0.0/transforms/a17c978c90e5415b01b331eaa6c600af/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/karrel/.gradle/caches/9.0.0/transforms/2ca614516bdac335455b94587498e504/transformed/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/karrel/.gradle/caches/9.0.0/transforms/1b2583bb1d6f6c4f0de66c88b7ef24b0/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/karrel/.gradle/caches/9.0.0/transforms/04d2b9c74df40c6e36e3e6218dbcd368/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/karrel/.gradle/caches/9.0.0/transforms/0c4f57792e4f12ae43ab4e23bf451eba/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.4.1] /Users/karrel/.gradle/caches/9.0.0/transforms/79d0c2672b19ae12f15e669d6033a654/transformed/transition-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/karrel/.gradle/caches/9.0.0/transforms/377297d433fcb1b290bdf83bd218137a/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/karrel/.gradle/caches/9.0.0/transforms/26241e61eb0ae6aecc6e7392f8d583f1/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/karrel/.gradle/caches/9.0.0/transforms/b3bb320cbf388e24ef2c2589bcfa7ab5/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/karrel/.gradle/caches/9.0.0/transforms/5ee4e1856c80eb0b7ab1d32b872a93f9/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.core:core:1.13.1] /Users/karrel/.gradle/caches/9.0.0/transforms/144cba204be65050373e662e82153bfe/transformed/core-1.13.1/AndroidManifest.xml:17:1-30:12
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /Users/karrel/.gradle/caches/9.0.0/transforms/0e40d807503e606bcda9dcb8014adab1/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/karrel/.gradle/caches/9.0.0/transforms/88f2bbd3f238774e76e6efb44d6ff405/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/karrel/.gradle/caches/9.0.0/transforms/b89ee93b140cdc38f62fb7fa0fa5905b/transformed/jetified-savedstate-ktx-1.2.1/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/karrel/.gradle/caches/9.0.0/transforms/c268c06fcbd78c244e2fa1035708056d/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.datastore:datastore-preferences-core-android:1.1.7] /Users/karrel/.gradle/caches/9.0.0/transforms/8fcca7f51e177b31538542f0467ee85b/transformed/jetified-datastore-preferences-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.datastore:datastore-core-android:1.1.7] /Users/karrel/.gradle/caches/9.0.0/transforms/ad0f0a750bfbc055bde1bde3802cb7b1/transformed/jetified-datastore-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.datastore:datastore-preferences-android:1.1.7] /Users/karrel/.gradle/caches/9.0.0/transforms/44c203687c05acec24b3750060698420/transformed/jetified-datastore-preferences-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.datastore:datastore-android:1.1.7] /Users/karrel/.gradle/caches/9.0.0/transforms/0165f9554a2d0201171d57d3540c1492/transformed/jetified-datastore-release/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/karrel/.gradle/caches/9.0.0/transforms/84ec6afaf6917589b59d168e209b9936/transformed/jetified-annotation-experimental-1.4.0/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/karrel/.gradle/caches/9.0.0/transforms/80d5f71198bfed9561fdac1ca5fcf903/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:17:1-55:12
 MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/karrel/.gradle/caches/9.0.0/transforms/8f870e21429285e5e20b9306db898633/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
@@ -53,52 +77,78 @@ MERGED from [androidx.tracing:tracing:1.2.0] /Users/karrel/.gradle/caches/9.0.0/
 MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/karrel/.gradle/caches/9.0.0/transforms/b045394ead2b8d3d05be5e87be4ab1a0/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/karrel/.gradle/caches/9.0.0/transforms/3e3e3c0851cfc16222d8b501527f1aa6/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/karrel/.gradle/caches/9.0.0/transforms/6f38555ae802ed01b236598eee1e9832/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/karrel/.gradle/caches/9.0.0/transforms/62a4eee8b8a5a6784605e5a1a9d7cb26/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.window.extensions.core:core:1.0.0] /Users/karrel/.gradle/caches/9.0.0/transforms/50b7370ece604380d8139b2692d2e146/transformed/jetified-core-1.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/karrel/.gradle/caches/9.0.0/transforms/2ab130d3cedc73f94547cc9a8834ba3b/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/karrel/.gradle/caches/9.0.0/transforms/5b6abc6388d1a71c16658761bd9789ba/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/karrel/.gradle/caches/9.0.0/transforms/1195c7dd35bbf30c39285df9d7bdd8c8/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [com.getkeepsafe.relinker:relinker:1.4.5] /Users/karrel/.gradle/caches/9.0.0/transforms/c33d10e3a9692b486e9554c857912277/transformed/jetified-relinker-1.4.5/AndroidManifest.xml:2:1-7:12
 	package
-		INJECTED from /Volumes/MIT-HD0064/flutter_todo/flutter_todos/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Volumes/MIT-HD0064/flutter_todos/flutter_todo/android/app/src/debug/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Volumes/MIT-HD0064/flutter_todo/flutter_todos/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Volumes/MIT-HD0064/flutter_todos/flutter_todo/android/app/src/debug/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Volumes/MIT-HD0064/flutter_todo/flutter_todos/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Volumes/MIT-HD0064/flutter_todos/flutter_todo/android/app/src/debug/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Volumes/MIT-HD0064/flutter_todo/flutter_todos/android/app/src/main/AndroidManifest.xml:1:11-69
+		ADDED from /Volumes/MIT-HD0064/flutter_todos/flutter_todo/android/app/src/main/AndroidManifest.xml:1:11-69
 queries
-ADDED from /Volumes/MIT-HD0064/flutter_todo/flutter_todos/android/app/src/main/AndroidManifest.xml:39:5-44:15
+ADDED from /Volumes/MIT-HD0064/flutter_todos/flutter_todo/android/app/src/main/AndroidManifest.xml:39:5-44:15
 intent#action:name:android.intent.action.PROCESS_TEXT+data:mimeType:text/plain
-ADDED from /Volumes/MIT-HD0064/flutter_todo/flutter_todos/android/app/src/main/AndroidManifest.xml:40:9-43:18
+ADDED from /Volumes/MIT-HD0064/flutter_todos/flutter_todo/android/app/src/main/AndroidManifest.xml:40:9-43:18
 action#android.intent.action.PROCESS_TEXT
-ADDED from /Volumes/MIT-HD0064/flutter_todo/flutter_todos/android/app/src/main/AndroidManifest.xml:41:13-72
+ADDED from /Volumes/MIT-HD0064/flutter_todos/flutter_todo/android/app/src/main/AndroidManifest.xml:41:13-72
 	android:name
-		ADDED from /Volumes/MIT-HD0064/flutter_todo/flutter_todos/android/app/src/main/AndroidManifest.xml:41:21-70
+		ADDED from /Volumes/MIT-HD0064/flutter_todos/flutter_todo/android/app/src/main/AndroidManifest.xml:41:21-70
 data
-ADDED from /Volumes/MIT-HD0064/flutter_todo/flutter_todos/android/app/src/main/AndroidManifest.xml:42:13-50
+ADDED from /Volumes/MIT-HD0064/flutter_todos/flutter_todo/android/app/src/main/AndroidManifest.xml:42:13-50
 	android:mimeType
-		ADDED from /Volumes/MIT-HD0064/flutter_todo/flutter_todos/android/app/src/main/AndroidManifest.xml:42:19-48
+		ADDED from /Volumes/MIT-HD0064/flutter_todos/flutter_todo/android/app/src/main/AndroidManifest.xml:42:19-48
 uses-permission#android.permission.INTERNET
-ADDED from /Volumes/MIT-HD0064/flutter_todo/flutter_todos/android/app/src/debug/AndroidManifest.xml:6:5-66
+ADDED from /Volumes/MIT-HD0064/flutter_todos/flutter_todo/android/app/src/debug/AndroidManifest.xml:6:5-66
 	android:name
-		ADDED from /Volumes/MIT-HD0064/flutter_todo/flutter_todos/android/app/src/debug/AndroidManifest.xml:6:22-64
+		ADDED from /Volumes/MIT-HD0064/flutter_todos/flutter_todo/android/app/src/debug/AndroidManifest.xml:6:22-64
 uses-sdk
-INJECTED from /Volumes/MIT-HD0064/flutter_todo/flutter_todos/android/app/src/debug/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Volumes/MIT-HD0064/flutter_todo/flutter_todos/android/app/src/debug/AndroidManifest.xml
-INJECTED from /Volumes/MIT-HD0064/flutter_todo/flutter_todos/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Volumes/MIT-HD0064/flutter_todos/flutter_todo/android/app/src/debug/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Volumes/MIT-HD0064/flutter_todos/flutter_todo/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Volumes/MIT-HD0064/flutter_todos/flutter_todo/android/app/src/debug/AndroidManifest.xml
+MERGED from [:shared_preferences_android] /Volumes/MIT-HD0064/flutter_todos/flutter_todo/build/shared_preferences_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_android] /Volumes/MIT-HD0064/flutter_todos/flutter_todo/build/shared_preferences_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [androidx.preference:preference:1.2.1] /Users/karrel/.gradle/caches/9.0.0/transforms/b99b52a6e591acd71717230b9939c5a0/transformed/preference-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference:1.2.1] /Users/karrel/.gradle/caches/9.0.0/transforms/b99b52a6e591acd71717230b9939c5a0/transformed/preference-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/karrel/.gradle/caches/9.0.0/transforms/f47e07621375b3fa9db24f8558a6bc04/transformed/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/karrel/.gradle/caches/9.0.0/transforms/f47e07621375b3fa9db24f8558a6bc04/transformed/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.7.1] /Users/karrel/.gradle/caches/9.0.0/transforms/4f715cdb20d8546a20494a5505974f2e/transformed/jetified-fragment-ktx-1.7.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.7.1] /Users/karrel/.gradle/caches/9.0.0/transforms/4f715cdb20d8546a20494a5505974f2e/transformed/jetified-fragment-ktx-1.7.1/AndroidManifest.xml:5:5-44
 MERGED from [androidx.fragment:fragment:1.7.1] /Users/karrel/.gradle/caches/9.0.0/transforms/20ac6f6128a011d113cabbc000c5b304/transformed/fragment-1.7.1/AndroidManifest.xml:5:5-44
 MERGED from [androidx.fragment:fragment:1.7.1] /Users/karrel/.gradle/caches/9.0.0/transforms/20ac6f6128a011d113cabbc000c5b304/transformed/fragment-1.7.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/karrel/.gradle/caches/9.0.0/transforms/7e143d0bbf4e7f2c5236952438418ca5/transformed/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/karrel/.gradle/caches/9.0.0/transforms/7e143d0bbf4e7f2c5236952438418ca5/transformed/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/karrel/.gradle/caches/9.0.0/transforms/183fcba0288d832e0134ed28f78ba8de/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/karrel/.gradle/caches/9.0.0/transforms/183fcba0288d832e0134ed28f78ba8de/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /Users/karrel/.gradle/caches/9.0.0/transforms/286bccee6459e6a6a1d2b2696f7b15ec/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /Users/karrel/.gradle/caches/9.0.0/transforms/286bccee6459e6a6a1d2b2696f7b15ec/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.window:window:1.2.0] /Users/karrel/.gradle/caches/9.0.0/transforms/9e665cdd6ffdea804c380513eee566d5/transformed/jetified-window-1.2.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.window:window:1.2.0] /Users/karrel/.gradle/caches/9.0.0/transforms/9e665cdd6ffdea804c380513eee566d5/transformed/jetified-window-1.2.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.window:window-java:1.2.0] /Users/karrel/.gradle/caches/9.0.0/transforms/2fc9e6ebaf3880072d188b3f2eccdcd8/transformed/jetified-window-java-1.2.0/AndroidManifest.xml:19:5-44
 MERGED from [androidx.window:window-java:1.2.0] /Users/karrel/.gradle/caches/9.0.0/transforms/2fc9e6ebaf3880072d188b3f2eccdcd8/transformed/jetified-window-java-1.2.0/AndroidManifest.xml:19:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.1] /Users/karrel/.gradle/caches/9.0.0/transforms/261a28569da641203827ac0cd75d19b7/transformed/jetified-activity-ktx-1.8.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.1] /Users/karrel/.gradle/caches/9.0.0/transforms/261a28569da641203827ac0cd75d19b7/transformed/jetified-activity-ktx-1.8.1/AndroidManifest.xml:5:5-44
 MERGED from [androidx.activity:activity:1.8.1] /Users/karrel/.gradle/caches/9.0.0/transforms/df2f1c6c72757d0d1385fa506bdc01c2/transformed/jetified-activity-1.8.1/AndroidManifest.xml:20:5-44
 MERGED from [androidx.activity:activity:1.8.1] /Users/karrel/.gradle/caches/9.0.0/transforms/df2f1c6c72757d0d1385fa506bdc01c2/transformed/jetified-activity-1.8.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/karrel/.gradle/caches/9.0.0/transforms/cf9d7010b6bed05684ab9927beb39096/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/karrel/.gradle/caches/9.0.0/transforms/cf9d7010b6bed05684ab9927beb39096/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.loader:loader:1.0.0] /Users/karrel/.gradle/caches/9.0.0/transforms/69b58f59eb0e264e10904482a3ad479e/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.loader:loader:1.0.0] /Users/karrel/.gradle/caches/9.0.0/transforms/69b58f59eb0e264e10904482a3ad479e/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/karrel/.gradle/caches/9.0.0/transforms/7236f2bc7df6865f82016bedad580d03/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/karrel/.gradle/caches/9.0.0/transforms/7236f2bc7df6865f82016bedad580d03/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] /Users/karrel/.gradle/caches/9.0.0/transforms/271ababa3cace6e5fe1dc304e108904e/transformed/jetified-lifecycle-livedata-core-ktx-2.7.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] /Users/karrel/.gradle/caches/9.0.0/transforms/271ababa3cace6e5fe1dc304e108904e/transformed/jetified-lifecycle-livedata-core-ktx-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] /Users/karrel/.gradle/caches/9.0.0/transforms/a522dbf48b08d4b605304c4e2dd593c1/transformed/jetified-lifecycle-runtime-ktx-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] /Users/karrel/.gradle/caches/9.0.0/transforms/a522dbf48b08d4b605304c4e2dd593c1/transformed/jetified-lifecycle-runtime-ktx-2.7.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] /Users/karrel/.gradle/caches/9.0.0/transforms/442dd10a926c7a6269ccb3486a857b7f/transformed/lifecycle-livedata-2.7.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] /Users/karrel/.gradle/caches/9.0.0/transforms/442dd10a926c7a6269ccb3486a857b7f/transformed/lifecycle-livedata-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] /Users/karrel/.gradle/caches/9.0.0/transforms/271ababa3cace6e5fe1dc304e108904e/transformed/jetified-lifecycle-livedata-core-ktx-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] /Users/karrel/.gradle/caches/9.0.0/transforms/271ababa3cace6e5fe1dc304e108904e/transformed/jetified-lifecycle-livedata-core-ktx-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] /Users/karrel/.gradle/caches/9.0.0/transforms/0f8696e7fa07240284ec3ad8d2fac083/transformed/jetified-lifecycle-viewmodel-ktx-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] /Users/karrel/.gradle/caches/9.0.0/transforms/0f8696e7fa07240284ec3ad8d2fac083/transformed/jetified-lifecycle-viewmodel-ktx-2.7.0/AndroidManifest.xml:5:5-44
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /Users/karrel/.gradle/caches/9.0.0/transforms/352b777a4fc1a783553eaacc76178c2d/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /Users/karrel/.gradle/caches/9.0.0/transforms/352b777a4fc1a783553eaacc76178c2d/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /Users/karrel/.gradle/caches/9.0.0/transforms/4bc3a9e372c257d77e4b43831baa70d7/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:20:5-44
@@ -107,16 +157,42 @@ MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /Users/kar
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /Users/karrel/.gradle/caches/9.0.0/transforms/2e9b86a0d36b578ebc06d7fe96e0225d/transformed/jetified-lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.core:core-ktx:1.13.1] /Users/karrel/.gradle/caches/9.0.0/transforms/27907ade144af097322bd0642580d735/transformed/jetified-core-ktx-1.13.1/AndroidManifest.xml:5:5-44
 MERGED from [androidx.core:core-ktx:1.13.1] /Users/karrel/.gradle/caches/9.0.0/transforms/27907ade144af097322bd0642580d735/transformed/jetified-core-ktx-1.13.1/AndroidManifest.xml:5:5-44
-MERGED from [androidx.customview:customview:1.0.0] /Users/karrel/.gradle/caches/9.0.0/transforms/a17c978c90e5415b01b331eaa6c600af/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] /Users/karrel/.gradle/caches/9.0.0/transforms/a17c978c90e5415b01b331eaa6c600af/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/karrel/.gradle/caches/9.0.0/transforms/2ca614516bdac335455b94587498e504/transformed/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/karrel/.gradle/caches/9.0.0/transforms/2ca614516bdac335455b94587498e504/transformed/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/karrel/.gradle/caches/9.0.0/transforms/1b2583bb1d6f6c4f0de66c88b7ef24b0/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/karrel/.gradle/caches/9.0.0/transforms/1b2583bb1d6f6c4f0de66c88b7ef24b0/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/karrel/.gradle/caches/9.0.0/transforms/04d2b9c74df40c6e36e3e6218dbcd368/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/karrel/.gradle/caches/9.0.0/transforms/04d2b9c74df40c6e36e3e6218dbcd368/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] /Users/karrel/.gradle/caches/9.0.0/transforms/0c4f57792e4f12ae43ab4e23bf451eba/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/karrel/.gradle/caches/9.0.0/transforms/0c4f57792e4f12ae43ab4e23bf451eba/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] /Users/karrel/.gradle/caches/9.0.0/transforms/79d0c2672b19ae12f15e669d6033a654/transformed/transition-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] /Users/karrel/.gradle/caches/9.0.0/transforms/79d0c2672b19ae12f15e669d6033a654/transformed/transition-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/karrel/.gradle/caches/9.0.0/transforms/377297d433fcb1b290bdf83bd218137a/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/karrel/.gradle/caches/9.0.0/transforms/377297d433fcb1b290bdf83bd218137a/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/karrel/.gradle/caches/9.0.0/transforms/26241e61eb0ae6aecc6e7392f8d583f1/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/karrel/.gradle/caches/9.0.0/transforms/26241e61eb0ae6aecc6e7392f8d583f1/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/karrel/.gradle/caches/9.0.0/transforms/b3bb320cbf388e24ef2c2589bcfa7ab5/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/karrel/.gradle/caches/9.0.0/transforms/b3bb320cbf388e24ef2c2589bcfa7ab5/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/karrel/.gradle/caches/9.0.0/transforms/5ee4e1856c80eb0b7ab1d32b872a93f9/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/karrel/.gradle/caches/9.0.0/transforms/5ee4e1856c80eb0b7ab1d32b872a93f9/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.core:core:1.13.1] /Users/karrel/.gradle/caches/9.0.0/transforms/144cba204be65050373e662e82153bfe/transformed/core-1.13.1/AndroidManifest.xml:20:5-44
 MERGED from [androidx.core:core:1.13.1] /Users/karrel/.gradle/caches/9.0.0/transforms/144cba204be65050373e662e82153bfe/transformed/core-1.13.1/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /Users/karrel/.gradle/caches/9.0.0/transforms/0e40d807503e606bcda9dcb8014adab1/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:5:5-44
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /Users/karrel/.gradle/caches/9.0.0/transforms/0e40d807503e606bcda9dcb8014adab1/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:5:5-44
 MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/karrel/.gradle/caches/9.0.0/transforms/88f2bbd3f238774e76e6efb44d6ff405/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:21:5-44
 MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/karrel/.gradle/caches/9.0.0/transforms/88f2bbd3f238774e76e6efb44d6ff405/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/karrel/.gradle/caches/9.0.0/transforms/b89ee93b140cdc38f62fb7fa0fa5905b/transformed/jetified-savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/karrel/.gradle/caches/9.0.0/transforms/b89ee93b140cdc38f62fb7fa0fa5905b/transformed/jetified-savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
 MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/karrel/.gradle/caches/9.0.0/transforms/c268c06fcbd78c244e2fa1035708056d/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:20:5-44
 MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/karrel/.gradle/caches/9.0.0/transforms/c268c06fcbd78c244e2fa1035708056d/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.datastore:datastore-preferences-core-android:1.1.7] /Users/karrel/.gradle/caches/9.0.0/transforms/8fcca7f51e177b31538542f0467ee85b/transformed/jetified-datastore-preferences-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.datastore:datastore-preferences-core-android:1.1.7] /Users/karrel/.gradle/caches/9.0.0/transforms/8fcca7f51e177b31538542f0467ee85b/transformed/jetified-datastore-preferences-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.datastore:datastore-core-android:1.1.7] /Users/karrel/.gradle/caches/9.0.0/transforms/ad0f0a750bfbc055bde1bde3802cb7b1/transformed/jetified-datastore-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.datastore:datastore-core-android:1.1.7] /Users/karrel/.gradle/caches/9.0.0/transforms/ad0f0a750bfbc055bde1bde3802cb7b1/transformed/jetified-datastore-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.datastore:datastore-preferences-android:1.1.7] /Users/karrel/.gradle/caches/9.0.0/transforms/44c203687c05acec24b3750060698420/transformed/jetified-datastore-preferences-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.datastore:datastore-preferences-android:1.1.7] /Users/karrel/.gradle/caches/9.0.0/transforms/44c203687c05acec24b3750060698420/transformed/jetified-datastore-preferences-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.datastore:datastore-android:1.1.7] /Users/karrel/.gradle/caches/9.0.0/transforms/0165f9554a2d0201171d57d3540c1492/transformed/jetified-datastore-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.datastore:datastore-android:1.1.7] /Users/karrel/.gradle/caches/9.0.0/transforms/0165f9554a2d0201171d57d3540c1492/transformed/jetified-datastore-release/AndroidManifest.xml:20:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/karrel/.gradle/caches/9.0.0/transforms/84ec6afaf6917589b59d168e209b9936/transformed/jetified-annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/karrel/.gradle/caches/9.0.0/transforms/84ec6afaf6917589b59d168e209b9936/transformed/jetified-annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
 MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/karrel/.gradle/caches/9.0.0/transforms/80d5f71198bfed9561fdac1ca5fcf903/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
@@ -131,14 +207,22 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/karr
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/karrel/.gradle/caches/9.0.0/transforms/3e3e3c0851cfc16222d8b501527f1aa6/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/karrel/.gradle/caches/9.0.0/transforms/6f38555ae802ed01b236598eee1e9832/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/karrel/.gradle/caches/9.0.0/transforms/6f38555ae802ed01b236598eee1e9832/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/karrel/.gradle/caches/9.0.0/transforms/62a4eee8b8a5a6784605e5a1a9d7cb26/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/karrel/.gradle/caches/9.0.0/transforms/62a4eee8b8a5a6784605e5a1a9d7cb26/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.window.extensions.core:core:1.0.0] /Users/karrel/.gradle/caches/9.0.0/transforms/50b7370ece604380d8139b2692d2e146/transformed/jetified-core-1.0.0/AndroidManifest.xml:5:5-44
 MERGED from [androidx.window.extensions.core:core:1.0.0] /Users/karrel/.gradle/caches/9.0.0/transforms/50b7370ece604380d8139b2692d2e146/transformed/jetified-core-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/karrel/.gradle/caches/9.0.0/transforms/2ab130d3cedc73f94547cc9a8834ba3b/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/karrel/.gradle/caches/9.0.0/transforms/2ab130d3cedc73f94547cc9a8834ba3b/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/karrel/.gradle/caches/9.0.0/transforms/5b6abc6388d1a71c16658761bd9789ba/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/karrel/.gradle/caches/9.0.0/transforms/5b6abc6388d1a71c16658761bd9789ba/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/karrel/.gradle/caches/9.0.0/transforms/1195c7dd35bbf30c39285df9d7bdd8c8/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/karrel/.gradle/caches/9.0.0/transforms/1195c7dd35bbf30c39285df9d7bdd8c8/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [com.getkeepsafe.relinker:relinker:1.4.5] /Users/karrel/.gradle/caches/9.0.0/transforms/c33d10e3a9692b486e9554c857912277/transformed/jetified-relinker-1.4.5/AndroidManifest.xml:5:5-43
 MERGED from [com.getkeepsafe.relinker:relinker:1.4.5] /Users/karrel/.gradle/caches/9.0.0/transforms/c33d10e3a9692b486e9554c857912277/transformed/jetified-relinker-1.4.5/AndroidManifest.xml:5:5-43
 	android:targetSdkVersion
-		INJECTED from /Volumes/MIT-HD0064/flutter_todo/flutter_todos/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Volumes/MIT-HD0064/flutter_todos/flutter_todo/android/app/src/debug/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Volumes/MIT-HD0064/flutter_todo/flutter_todos/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Volumes/MIT-HD0064/flutter_todos/flutter_todo/android/app/src/debug/AndroidManifest.xml
 uses-library#androidx.window.extensions
 ADDED from [androidx.window:window:1.2.0] /Users/karrel/.gradle/caches/9.0.0/transforms/9e665cdd6ffdea804c380513eee566d5/transformed/jetified-window-1.2.0/AndroidManifest.xml:23:9-25:40
 	android:required
